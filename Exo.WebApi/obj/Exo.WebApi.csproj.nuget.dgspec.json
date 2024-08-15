@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

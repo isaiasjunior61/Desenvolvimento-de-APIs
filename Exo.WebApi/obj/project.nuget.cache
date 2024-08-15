@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mz9gecVTNLYpfn1iWtL8hsK9MPjsDNQXMprmeGQgMIJboC+90Nz93uK7aZz5PzAOtxCJiz0ZpZZfyvgoZvDQcw==",
+  "dgSpecHash": "1f5TEiIJae8HR+8iWzRPcIZF700+I3kvD8fUdVzKDxH6mQKpHZuXEIlAKh9Nvr5CGxdFCxlLwEJ3a+SAPrZPRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\04c - Atividade 3 - Criar estrutura da API com Context e método GET para projetos teste no navegador\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Documents\\Cursos\\Programador Full Stack Senai SP\\Desenvolvimento de APIs\\Desenvolvimento de APIs\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
